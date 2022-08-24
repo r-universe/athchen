@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "beer"]
+	path = beer
+	url = https://github.com/athchen/beer
+	shallow = true
+	registered = true
 [submodule "PhIPData"]
 	path = PhIPData
 	url = https://github.com/athchen/phipdata

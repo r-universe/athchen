@@ -1,5 +1,8 @@
 [
   {
+    "package": "beer"
+  },
+  {
     "package": "PhIPData"
   }
 ]
