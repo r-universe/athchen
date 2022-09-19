@@ -8,3 +8,8 @@
 	url = https://github.com/athchen/beer
 	shallow = true
 	registered = true
+[submodule "PhIPData"]
+	path = PhIPData
+	url = https://github.com/athchen/phipdata
+	shallow = true
+	registered = true
